@@ -4,7 +4,6 @@
   - user_id: Number
   - user_name: String
   - user_bio: String
-  - user_is_active: Bool
   - conversations : array
   - friends: array [users]
   - password: string
